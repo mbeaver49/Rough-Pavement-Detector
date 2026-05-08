@@ -1,0 +1,38 @@
+Calibration Proceedure:
+
+Location: Carleton Lot
+Thresholds Set ->
+	Maximum Contrast: 468
+	Maxiumum Standard Deviation of Contrast: 112
+	Maximum Entropy: 2.68
+	Minimum Homogeneity: 292 
+	Minimum Correlation: .15
+	Minimum Entergy: 158
+
+Location: CFPAC Smooth Pavement
+Thresholds Set ->
+	Maximum Contrast: 14.33
+	Maxiumum Standard Deviation of Contrast: 15.5
+	Maximum Entropy: .70
+	Minimum Homogeneity: 433
+	Minimum Correlation: .19
+	Minimum Entergy: 420
+
+Location: CFPAC Rough Pavement
+Thresholds Set ->
+	Maximum Contrast: 214
+	Maxiumum Standard Deviation of Contrast: 43
+	Maximum Entropy: 2.7
+	Minimum Homogeneity: 352 
+	Minimum Correlation: .72
+	Minimum Entergy: 170
+
+Location: Campus Drive
+Thresholds Set ->
+	Maximum Contrast: 14.33
+	Maxiumum Standard Deviation Contrast: 15.5
+	Maximum Entropy: .70
+	Minimum Homogeneity: 433 
+	Minimum Correlation: .19
+	Minimum Entergy: 420
+	

@@ -1,3 +1,6 @@
 images/*
 videos/*
 terrain_output/*
+*.pdf
+sample_correlation.py
+__pycache__/
